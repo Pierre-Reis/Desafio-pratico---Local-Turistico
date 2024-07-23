@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  font-family: "Open Sans", sans-serif;
+}
+
+#page{
+  margin: 88px 80px 130px;
+  box-sizing: border-box;
+}
+
+#introduction{
+  margin-bottom: 40px;
+}
+
+span{
+  color: #E1624F;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+#introduction h1{
+  margin: 8px 0 40px;
+}
+
+img{
+  width: 100%;
+  border-radius: 28px;
+}
+
+#introduction p{
+  text-align: center;
+  color: #333333;
+}
