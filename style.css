@@ -7,23 +7,10 @@
   font-family: "Open Sans", sans-serif;
 }
 
-#page{
-  margin: 88px 80px 130px;
-  box-sizing: border-box;
-}
-
-#introduction{
-  margin-bottom: 40px;
-}
-
 span{
   color: #E1624F;
   text-transform: capitalize;
   font-weight: 700;
-}
-
-#introduction h1{
-  margin: 8px 0 40px;
 }
 
 img{
@@ -31,7 +18,77 @@ img{
   border-radius: 28px;
 }
 
+h2{
+  margin-bottom: 8px;
+}
+
+p{
+  color: #333333;
+}
+
+#page{
+  margin: 88px 80px 48px;
+  box-sizing: border-box;
+}
+
+#introduction{
+  margin-bottom: 40px;
+}
+
+#introduction h1{
+  margin: 8px 0 40px;
+}
+
 #introduction p{
   text-align: center;
+}
+
+#title-list{
+  margin: 64px 0px 16px;
+}
+
+#title-list span{
+  text-shadow: -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px  1px 0 #000,
+    1px  1px 0 #000;
+}
+
+#list img{
+  margin: 48px 0px 20px;
+}
+
+#list ul{
+  color: #0C51A7;
+  padding-left: 20px;
+}
+
+.purple {
+  color: #591B98;
+}
+
+.pink {
+  color: #E5245E;
+}
+
+.orange {
+  color: #E95E10;
+}
+
+footer{
+  text-align: center;
+}
+
+footer hr{
+  margin: 40px 0px;
+}
+
+footer img{
+  width: 15px;
+  vertical-align: middle;
   color: #333333;
+}
+
+#love{
+  margin-top: 58px;
 }
